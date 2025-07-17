@@ -1,8 +1,12 @@
 # Sobre mim
 E aí! Sou o Lucas, e estou quase lá para me formar em Ciência da Computação. Por aqui, você vai encontrar um pouco da minha jornada e dos projetos que venho desenvolvendo.
+
 Ao longo da faculdade, tive a oportunidade de mergulhar em várias áreas. As que mais me chamaram a atenção foram **ciência de dados**, **projeto e documentação de software**, **interação homem máquina** e **computação distribuída**.
+
 Na área de ciência de dados, meu último trabalho foi uma análise dos casos de dengue no Brasil, onde busquei conectar o número de casos com variáveis climáticas. Foi um projeto bem interessante!
+
 Para o meu Trabalho de Conclusão de Curso, estou encarando um desafio e tanto: refatorar e atualizar uma ferramenta de web scraping. Essa ferramenta, que é uma extensão do Chrome, foi criada há alguns anos e precisa de uma boa repaginada para rodar nas versões mais recentes do navegador e coletar dados dos sites de hoje.
+
 No momento, estou me aprofundando em tecnologias como **Java Web** (especialmente com **Spring Boot**), **JavaScript** e no desenvolvimento de **interfaces web com React**.
 <!--
 **lucas-bernardo-souza/lucas-bernardo-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
