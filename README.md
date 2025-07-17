@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oii, eu sou o Lucas. Estou concluindo a graduação em Ciência da Computação, aqui você encontra um pouco sobre mim e meus projatos.👋
 
 <!--
 **lucas-bernardo-souza/lucas-bernardo-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
