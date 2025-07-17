@@ -12,7 +12,7 @@ No momento, estou me aprofundando em tecnologias como **Java Web** (especialment
 # Estatísticas de projetos
 [![Estatísticas do GitHub de Lucas Bernardo](https://github-readme-stats.vercel.app/api?username=lucas-bernardo-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraggupta78/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraggupta78/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bernardo-souza&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraggupta78/github-readme-stats)
 ---
 # Tecnologias
 <div style="display: inline_block"><br>
