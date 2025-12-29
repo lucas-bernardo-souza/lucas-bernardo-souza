@@ -1,5 +1,5 @@
 # Sobre mim
-E aí! Sou o Lucas, e estou quase lá para me formar em Ciência da Computação. Por aqui, você vai encontrar um pouco da minha jornada e dos projetos que venho desenvolvendo.
+E aí! Sou o Lucas, graduado em Ciência da Computação pela UNESP. Por aqui, você vai encontrar um pouco da minha jornada e dos projetos que venho desenvolvendo.
 
 Ao longo da faculdade, tive a oportunidade de mergulhar em várias áreas. As que mais me chamaram a atenção foram **ciência de dados**, **projeto e documentação de software**, **interação homem máquina** e **computação distribuída**.
 
